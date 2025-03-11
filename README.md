@@ -27,7 +27,7 @@
 ## Status geral do meu Github
 
 <div align="center">
-  <a href="https://github.com/JeanHFN">
+  <a href="https://github.com/Jean-mm">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Jean-mm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-mm&layout=compact&langs_count=7&theme=dark"/>
 </div>
