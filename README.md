@@ -3,7 +3,7 @@
 <br>
 
 <div align="center"> 
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="450">
+  <img src="https://imgur.com/vz49HC9" width="450">
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0e68c&size=35&center=true&vCenter=true&width=1000&lines=Olá+eu+sou+o+Jean+🖐️;Sou+um+programador+Front-end+;Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
@@ -19,8 +19,8 @@
 
 <div align="center"> 
   
-  <a href = "mailto:jeanmaciera98@gmail.com"> <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Mail" width="60"/>
-  <a href = "https://www.linkedin.com/in/jean-mm/"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"alt= "LinkedIn" width="60" />
+  <a href = "mailto:jeanmaciera98@gmail.com"> <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="60"/>
+    <a href = "https://www.linkedin.com/in/jean-mm"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt= "LinkedIn" width="60" />
       
 <div style="text-align: center;" align="center">
 </div>
