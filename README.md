@@ -3,7 +3,7 @@
 <br>
 
 <div align="center"> 
-  <img src="https://imgur.com/vz49HC9" width="450">
+  <img src="https://raw.githubusercontent.com/Jean-mm/WebSiteImg/refs/heads/main/hacker-pupper-dog.gif" width="450">
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0e68c&size=35&center=true&vCenter=true&width=1000&lines=Olá+eu+sou+o+Jean+🖐️;Sou+um+programador+Front-end+;Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
