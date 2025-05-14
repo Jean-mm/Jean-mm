@@ -1,33 +1,43 @@
-## Olá! Eu sou o Jean 🖐️
-💻 Desenvolvedor com mais de 4 anos de experiência, focado em criar soluções eficientes e aprimorar continuamente minhas habilidades em programação.
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
-## Tecnologias e conhecimentos
-
-<div style="display: inline_block">
-  <img align="center" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img align="center" alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div><br/>
-
-## Social
-
-<div style="display: inline_block">
-  <a align="center" href="mailto:jeanmaciera98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-  <a align="center" href="https://www.linkedin.com/in/jean-mm/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
-</div><br/>
-
-## Status geral do meu Github
-
-<div align="center">
-  <a href="https://github.com/Jean-mm">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Jean-mm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-mm&layout=compact&langs_count=7&theme=dark"/>
+<div align="center"> 
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="450">
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0e68c&size=35&center=true&vCenter=true&width=1000&lines=Olá+eu+sou+o+Jean+🖐️;Sou+um+programador+Front-end+;Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+<br><br>
+
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Jean-mm&show_icons=true&theme=default&text_color=fff&title_color=f0e68c&rank_icon=default&bg_color=0d1117&icon_color=f0e68c&hide_border=true&include_all_commits=true&count_private=true&locale=pt-BR" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-mm&layout=compact&text_color=fff&title_color=f0e68c&bg_color=0d1117&hide_border=true&locale=pt-BR">  
+  <br><br>
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jean-mm&custom_title=Minhas%20Contribuições&hide_border=true&theme=one-dark&point=f0e68c&line=fff&days=15&text_color=fff&title_color=f0e68c&bg_color=0d1117&icon_color=f0e68c&include_all_commits=true&count_private=true)](https://github.com/Jean-mm/github-readme-activity-graph)
+</div>
+
+<div align="center"> 
+  
+  <a href = "mailto:jeanmaciera98@gmail.com"> <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Mail" width="60"/>
+  <a href = "https://www.linkedin.com/in/jean-mm/"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"alt= "LinkedIn" width="60" />
+      
+<div style="text-align: center;" align="center">
+</div>
+<br>
+</div>
+ <div align="center"> 
+<img width="50%" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500"
+<br>
+  
+ </div>
+ <div align="center">
+   
+ ### Habilidades:
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,java,ts,js,react,lua,py,django,nodejs,mysql,sqlite,html,css,figma&perline=8)](https://skillicons.dev)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br><br>
+
