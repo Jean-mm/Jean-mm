@@ -3,7 +3,7 @@
 <br>
 
 <div align="center"> 
-  <img src="https://raw.githubusercontent.com/Jean-mm/WebSiteImg/refs/heads/main/hacker-pupper-dog.gif" width="450">
+  <img src="https://raw.githubusercontent.com/Jean-mm/WebSiteImg/refs/heads/main/jean-1.gif" width="450">
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0e68c&size=35&center=true&vCenter=true&width=1000&lines=Olá+eu+sou+o+Jean+🖐️;Sou+um+programador+Front-end+;Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
@@ -27,7 +27,7 @@
 <br>
 </div>
  <div align="center"> 
-<img width="50%" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500"
+<img width="50%" src="https://raw.githubusercontent.com/Jean-mm/WebSiteImg/refs/heads/main/jean-2.gif" width="500"
 <br>
   
  </div>
