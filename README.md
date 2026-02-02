@@ -15,7 +15,7 @@
 <img width="50%" src="https://raw.githubusercontent.com/Jean-mm/WebSiteImg/refs/heads/main/jean-2.gif" width="500">
 
 ### Skills learned the hard way
-[![Skills](https://skillicons.dev/icons?i=vscode,c,cpp,java,ts,js,react,angular,tailwind,nextjs,lua,py,flask,django,nodejs,nestjs&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=vscode,c,cpp,cs,java,ts,js,react,angular,tailwind,nextjs,lua,py,flask,django,nodejs,nestjs,fastapi&perline=9)](https://skillicons.dev)
 
 #### Other's
 [![Other's Skills](https://skillicons.dev/icons?i=figma,photoshop,premiere,vscode,linux,docker,github)](https://skillicons.dev)
