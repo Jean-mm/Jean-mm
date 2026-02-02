@@ -12,20 +12,19 @@
 
 [![Jean github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jean-mm&custom_title=Minhas%20Contribuições&hide_border=truetheme=one-dark&point=f0e68c&line=fff&days=15&text_color=fff&title_color=f0e68c&bg_color=0d1117&icon_color=f0e68c&include_all_commits=true&count_private=true)](https:/github.com/Jean-mm/github-readme-activity-graph)
 
-<img width="50%" src="https://raw.githubusercontent.com/Jean-mm/WebSiteImg/refs/heads/main/jean-2.gif" width="500"
+<img width="50%" src="https://raw.githubusercontent.com/Jean-mm/WebSiteImg/refs/heads/main/jean-2.gif" width="500">
 
 ### Skills learned the hard way
-[![Skills](https://skillicons.dev/icons?i=vscode,c,cpp,java,ts,js,react,angular,tailwind,nextjs,lua,py,flask,django,nodejs,nestjs,fastapi&perline=8)](https://skillicons.dev)
-<br>
+[![Skills](https://skillicons.dev/icons?i=vscode,c,cpp,java,ts,js,react,angular,tailwind,nextjs,lua,py,flask,django,nodejs,nestjs&perline=8)](https://skillicons.dev)
 
-### - Database
+# — Database
 [![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
 <br>
 
-### - Cloud Servers
+# — Cloud Servers
 [![Cloud Servers Skills](https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare)](https://skillicons.dev)
 <br>
 
-### - Other's
+# — Other's
 [![Other's Skills](https://skillicons.dev/icons?i=figma,vscode,linux,docker,github)](https://skillicons.dev)
 <br>
