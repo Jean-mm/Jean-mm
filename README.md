@@ -10,7 +10,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/y6ngyWk)
 [![Youtube](https://img.shields.io/badge/Youtube-%231DA1F2.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@haufenofc)
 
-[![Jean activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jean-mm&custom_title=My%contributions&hide_border=truetheme=one-dark&point=f0e68c&line=fff&days=15&text_color=fff&title_color=f0e68c&bg_color=0d1117&icon_color=f0e68c&include_all_commits=true&count_private=true)](https:/github.com/Jean-mm/github-readme-activity-graph)
+[![Jean activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jean-mm&custom_title=My%20contributions&hide_border=true&theme=one-dark&point=f0e68c&line=fff&days=15&text_color=fff&title_color=f0e68c&bg_color=0d1117&icon_color=f0e68c&include_all_commits=true&count_private=true
+)](https:/github.com/Jean-mm/github-readme-activity-graph)
 
 <img width="50%" src="https://raw.githubusercontent.com/Jean-mm/WebSiteImg/refs/heads/main/jean-2.gif" width="500">
 
