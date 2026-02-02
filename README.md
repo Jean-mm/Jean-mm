@@ -17,13 +17,13 @@
 ### Skills learned the hard way
 [![Skills](https://skillicons.dev/icons?i=vscode,c,cpp,java,ts,js,react,angular,tailwind,nextjs,lua,py,flask,django,nodejs,nestjs&perline=8)](https://skillicons.dev)
 
-#### Database
-[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
+#### Other's
+[![Other's Skills](https://skillicons.dev/icons?i=figma,photoshop,premiere,vscode,linux,docker,github)](https://skillicons.dev)
 
 #### Cloud Servers
 [![Cloud Servers Skills](https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare)](https://skillicons.dev)
 
-#### Other's
-[![Other's Skills](https://skillicons.dev/icons?i=figma,vscode,linux,docker,github)](https://skillicons.dev)
+#### Database
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
 
 </div>
