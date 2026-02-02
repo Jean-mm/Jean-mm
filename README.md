@@ -1,3 +1,4 @@
+<div align="center">  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0e68c&size=35&center=true&vCenter=true&width=1000&lines=Hi+buddy+🖐️+:%29;)](https://git.io/typing-svg)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jean-mm&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jean-mm)
@@ -17,14 +18,14 @@
 [![Skills](https://skillicons.dev/icons?i=vscode,c,cpp,java,ts,js,react,angular,tailwind,nextjs,lua,py,flask,django,nodejs,nestjs,fastapi&perline=8)](https://skillicons.dev)
 <br>
 
-### Database
-[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)]
+### - Database
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
 <br>
 
-### Cloud Servers
+### - Cloud Servers
 [![Cloud Servers Skills](https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare)](https://skillicons.dev)
 <br>
 
-### Other's
+### - Other's
 [![Other's Skills](https://skillicons.dev/icons?i=figma,vscode,linux,docker,github)](https://skillicons.dev)
 <br>
